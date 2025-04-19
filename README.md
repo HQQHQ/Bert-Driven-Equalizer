@@ -5,7 +5,7 @@ And it's not finished yet.
 
 ## 🔍 Baseline Research
 Part of this project and codes are based on the research by Venkatesh et al. (2022), which explores using word embeddings for automatic equalization in audio mixing.  
-You can read the original paper: [*Word Embeddings for Automatic Equalization in Audio Mixing*](https://doi.org/10.17743/jaes.2022.0077).
+You can read the original paper: [*Word Embeddings for Automatic Equalization in Audio Mixing*](https://arxiv.org/abs/2202.08898).
 ## 🔧 Files
 
 - [Play_and_Listen.ipynb](./Play_and_Listen.ipynb): Try and listen, looking into the performance of the model.
