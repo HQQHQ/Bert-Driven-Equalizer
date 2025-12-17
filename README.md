@@ -19,4 +19,5 @@ You can read the original paper: [*Word Embeddings for Automatic Equalization in
 
 ## ▶️ Usage
 Open the [Play_and_Listen.ipynb](./Play_and_Listen.ipynb) and follow the instructions to try the model with audio.
-  
+
+## Application
