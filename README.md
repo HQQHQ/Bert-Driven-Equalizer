@@ -1,7 +1,7 @@
 # Bert-Driven-Equalizer
 
 This project explores a semantic-driven equalizer powered by BERT. It allows users to describe EQ settings in natural language and hear the corresponding changes in audio.  
-And it's not finished yet.
+
 
 ## 🔍 Baseline Research
 Part of this project and codes are based on the research by Venkatesh et al. (2022), which explores using word embeddings for automatic equalization in audio mixing.  
