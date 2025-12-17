@@ -21,3 +21,4 @@ You can read the original paper: [*Word Embeddings for Automatic Equalization in
 Open the [Play_and_Listen.ipynb](./Play_and_Listen.ipynb) and follow the instructions to try the model with audio.
 
 ## Application
+App's Demo Video: https://drive.google.com/file/d/12PLFicCh-rFeDV4ga_97yM2yEeQ8EG0c/view?usp=sharing
