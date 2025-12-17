@@ -12,6 +12,17 @@ You can run it with the provided notebooks and preview results in this repo.
 
 ---
 
+## 🔍 Baseline Research
+Part of this project and codes are based on the research by Venkatesh et al. (2022), which explores using word embeddings for automatic equalization in audio mixing.  
+You can read the original paper: [*Word Embeddings for Automatic Equalization in Audio Mixing*](https://arxiv.org/abs/2202.08898).
+
+---
+
+## 📄 SocialEQ Dataset
+- You can get the SocialEQ dataset from [here](https://www.dropbox.com/scl/fo/ulk8t7ad5b1js8qwuph3f/ANnatQNiD1QoQoeDDZktHjM/data/raw?e=1&preview=eq_contributions.csv&rlkey=we20hw9qu94wytocopw5np1yj&subfolder_nav_tracking=1&dl=0).
+
+---
+
 ## Files
 
 - **Notebooks**  
@@ -52,34 +63,28 @@ Below are the key **Results** showing model performance and example predictions.
 
 ![PCM](results/PCM_Comparasons.png)
 
----
+### Predicted Curve vs Human Curve
 
+![curves1](results/1.png)
+![curves2](results/2.png)
+![curves3](results/3.png)
 
-> These figures show how predicted 40-band curves align with human curves.
-![curves1](results/semantic_plots_page_1.pdf)
+### Domain-Specific Understanding Tests
+
+![curves4](results/2*2.png)
+
 ---
 
 ## Application (Prototype)
 
-This folder contains a **real-time EQ + source separation prototype**.  
-Users can type a descriptor and apply semantic EQ to audio/video playback.
+### Main View
+![App Main](App/Interface1.png)
 
-### App UI Screenshots
+### Descriptor Input & Curve Preview
+![Input & Curve](App/Interface2.png)
 
-#### Main View
-![App Main](App/app_main.png)
-
-#### Descriptor Input & Curve Preview
-![Input & Curve](App/app_input_curve.png)
-
-#### Stem Controls
-![Stems UI](App/app_stems.png)
+### Workflow
+![Stems UI](App/Workflow.png)
 
 ---
 
-## Notes
-
-- Works with **SocialEQ dataset**.  You can get the SocialEQ dataset from [here](https://www.dropbox.com/scl/fo/ulk8t7ad5b1js8qwuph3f/ANnatQNiD1QoQoeDDZktHjM/data/raw?e=1&preview=eq_contributions.csv&rlkey=we20hw9qu94wytocopw5np1yj&subfolder_nav_tracking=1&dl=0).
-- The EQ output is a **40-band curve** suitable for further DSP.
-
----
