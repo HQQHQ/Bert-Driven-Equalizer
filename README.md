@@ -1,7 +1,7 @@
 # Bert-Driven-Equalizer
 
 A **semantic EQ**: turn natural language descriptors into automatic equalization curves.  
-This project is part of an in-progress Master’s thesis exploring **BERT contextual embeddings + regression → 40-band EQ curves**.
+This project is part of a Master’s thesis exploring **BERT contextual embeddings + regression → 40-band EQ curves**.
 
 ---
 
