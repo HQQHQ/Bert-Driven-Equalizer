@@ -12,13 +12,13 @@ You can run it with the provided notebooks and preview results in this repo.
 
 ---
 
-## 🔍 Baseline Research
+## Baseline Research
 Part of this project and codes are based on the research by Venkatesh et al. (2022), which explores using word embeddings for automatic equalization in audio mixing.  
 You can read the original paper: [*Word Embeddings for Automatic Equalization in Audio Mixing*](https://arxiv.org/abs/2202.08898).
 
 ---
 
-## 📄 SocialEQ Dataset
+## SocialEQ Dataset
 - You can get the SocialEQ dataset from [here](https://www.dropbox.com/scl/fo/ulk8t7ad5b1js8qwuph3f/ANnatQNiD1QoQoeDDZktHjM/data/raw?e=1&preview=eq_contributions.csv&rlkey=we20hw9qu94wytocopw5np1yj&subfolder_nav_tracking=1&dl=0).
 
 ---
