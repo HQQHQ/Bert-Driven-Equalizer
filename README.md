@@ -78,6 +78,9 @@ Below are the key **Results** showing model performance and example predictions.
 
 ## Application (Prototype)
 
+### Demo Video
+https://drive.google.com/file/d/12PLFicCh-rFeDV4ga_97yM2yEeQ8EG0c/view?usp=sharing
+
 ### Main View
 ![App Main](App/Interface1.png)
 
